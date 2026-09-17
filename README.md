@@ -119,3 +119,7 @@ Contact:
 - Email: sssaichandra375@gmail.com
 - GitHub: https://github.com/saichandravuddamari
 - LinkedIn: https://www.linkedin.com/in/saichandravuddamari
+
+## Credits
+
+`datasets/source_crm/sales_details.csv` restored from [DataWithBaraa/sql-data-warehouse-project](https://github.com/DataWithBaraa/sql-data-warehouse-project) by Baraa Khatib Salkini (MIT License).
